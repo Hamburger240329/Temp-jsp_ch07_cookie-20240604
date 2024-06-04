@@ -19,6 +19,7 @@
 			response.addCookie(cookies[i]);//다시 클라이언트 컴퓨터에 보냄
 		}
 	%>
+	<a href="cookieTest.jsp">쿠키 테스트</a>
 	
 </body>
 </html>

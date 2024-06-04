@@ -20,6 +20,7 @@
 	<h3>로그인 성공</h3>
 	<hr>
 	로그인에 성공하셨습니다.<br><br>
+	<a href="cookieTest.jsp">쿠키 테스트</a><br><br>
 	<a href="logout.jsp">로그아웃</a>
 	
 </body>
